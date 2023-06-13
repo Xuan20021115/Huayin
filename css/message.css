@@ -1,0 +1,161 @@
+.back{
+  background-color: rgb(248, 248,248);
+  padding-top: 30px;
+  padding-bottom: 50px;
+}
+.navbar{
+  margin-bottom: 0px;
+
+
+}
+
+
+
+
+a:hover, a:visited {
+  text-decoration: none;
+  
+}
+
+
+
+
+.navbar-brand{
+  float: left;
+  width: 30%;
+  margin-left: 6% !important;
+  margin-top: 10px;
+
+}
+
+
+
+.justify-content-end{
+  
+  text-align: center;
+  line-height: 100px !important;
+  font-size: 18px;
+}
+
+#nav{
+float:left;
+width: 180px;
+
+
+}
+
+
+
+.nav-link{
+  color: #333;
+  text-decoration: underline;
+}
+
+.nav-link:hover{
+  color: #333;
+ 
+}
+
+
+
+
+
+
+#box-cardn {
+  width: 70%;
+  min-height: 600px;
+  background-color: rgba(0,0,0,.7);
+  position: relative;
+  margin: 0 auto;
+  z-index: 9999;
+}
+
+.el-card.is-always-shadow, .el-card.is-hover-shadow:focus, .el-card.is-hover-shadow:hover {
+  box-shadow: 0 2px 12px 0 rgba(0,0,0,.1);
+}
+
+.el-card {
+  padding: 4%;
+}
+
+.el-card {
+  border-radius: 4px;
+  border: 1px solid #ebeef5;
+  background-color: #fff;
+  overflow: hidden;
+  color: #303133;
+  transition: .3s;
+}
+
+.el-card__header {
+  padding: 18px 20px;
+  border-bottom: 1px solid #ebeef5;
+  box-sizing: border-box;
+}
+h2 {
+  font-family: "PingFang SC";
+  font-weight: 400;
+  letter-spacing: .04em;
+  text-align: center;
+  margin-top: 50px;
+  margin-bottom: 4px;
+  color: #333;
+}
+
+.el-card__body {
+  padding: 20px;
+  text-align: left;
+}
+
+.item {
+  margin-top: 30px;
+}
+.text {
+  font-size: 18px;
+  color: white;
+}
+
+.text a{
+  color: white;
+  text-decoration: none;
+}
+
+.text a:hover{
+  color: red;
+}
+
+
+.pagination{
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+
+
+
+.footer{
+  display: block;
+  position: relative;
+    bottom: 0;
+    width: 100%;
+    height: 100px;
+    background-color: #fff;
+}
+
+.container{
+  font-family: PingFang SC;
+  font-size: 16px;
+  font-weight: 300;
+  color: #333;
+  padding-top: 30px;
+  padding-bottom: 15px;
+  text-align: center;
+}
+
+.container p{
+  display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
